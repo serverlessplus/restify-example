@@ -1,0 +1,27 @@
+{
+  "name": "restify-example",
+  "version": "1.0.0",
+  "description": "serverlessplus restify example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverlessplus/restify-example.git"
+  },
+  "keywords": [
+    "serverlessplus",
+    "restify"
+  ],
+  "author": "chenhengqi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/serverlessplus/restify-example/issues"
+  },
+  "homepage": "https://github.com/serverlessplus/restify-example#readme",
+  "dependencies": {
+    "restify": "^8.2.0",
+    "serverlessplus": "0.0.6"
+  }
+}
